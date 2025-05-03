@@ -124,11 +124,10 @@ I'm a passionate developer focusing on **Express.js**, **Vue.js**, **Laravel**, 
 
 <p align="center">
 
-<a href="https://github.com/LeleCodeDev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=lelecodedev&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Leandro's github-readme-stats"/></a>
-<a href="https://github.com/LeleCodeDev?tab=stars">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=lelecodedev&theme=radical&hide_border=true" width="48%"/>
-</a>
+<a href="https://github.com/LeleCodeDev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=lelecodedev&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@Leandro's github-readme-stats"/></a>
 
+<a href="https://github.com/lelecodedev?tab=stars"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lelecodedev&theme=radical&hide_border=true" 
+width="48%" alt="lelecodedev" /></a>
 
 </p>
 
@@ -136,10 +135,13 @@ I'm a passionate developer focusing on **Express.js**, **Vue.js**, **Laravel**, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lelecodedev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
 </p>
 
-<p align="center" style="display: flex; gap: 10px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelecodedev&layout=compact&theme=radical&hide_border=true" width=40%>
-  <img src="https://github-profile-trophy.vercel.app/?username=lelecodedev&theme=radical&no-frame=true&column=3&row=2" width="40%" alt="@Leandro's trophy stats"/>
-</p>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelecodedev&layout=compact&theme=radical&hide_border=true" >
+  </p>
+
+  <p align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=lelecodedev&theme=radical&no-frame=true&column=3&row=2" alt="@Leandro's trophy stats" width="70%"/>
+  </p>
 
 ## 📚 Currently Learning
 
