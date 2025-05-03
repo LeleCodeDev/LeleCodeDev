@@ -1,47 +1,161 @@
 # Hi there! 👋 I'm Leandro Nathanael
 
 ## 🚀 About Me
-I'm a passionate developer focusing on **Express.js**,  **Vue.js**, **Laravel**, and full-stack development.
+
+I'm a passionate developer focusing on **Express.js**, **Vue.js**, **Laravel**, and full-stack development.
 
 - 🔭 Currently working on web-based apps using **Vue**, **Laravel**, and **REST APIs**
 - 🌱 Learning **Laravel**, **Next.js**, **React**, **Spring Boot**
-- 💬 Ask me about frontend/backend integration, Vue components, or Laravel APIs
+
 - 📫 Reach me at [leandronathanael08@gmail.com](mailto:leandronathanael08@gmail.com)
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 ### 🌐 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="45" height="45"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="45" height="45"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="45" height="45"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="45" height="45"/> </a> </p>
 
 ### 🧠 Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" width="45" height="45"/> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/> </a> </p>
+
+### ⚙️ Technologies I Have used
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" />
+      <br>Pyhon
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" />
+      <br>MySQL
+    </td>
+    
+    
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="48" height="48" />
+      <br>Next
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="48" height="48" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="48" height="48" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" />
+      <br>PHP
+    </td>
+
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://www.svgrepo.com/show/353985/laravel.svg" width="48" height="48" />
+      <br>Laravel
+    </td>
+  <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
+      <br>GitHub
+    </td>
+    
+  </tr>
+</table>
+</div>
 
 ## 📊 GitHub Stats
 
-![Leandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lelecodedev&show_icons=true&theme=radical) 
+<p align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lelecodedev&layout=compact)
+<a href="https://github.com/LeleCodeDev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=lelecodedev&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Leandro's github-readme-stats"/></a>
+<a href="https://github.com/LeleCodeDev?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=lelecodedev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Leandro's github-readme-streak-stats"/></a>
+
+</p>
+
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lelecodedev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
+</p>
+
+<p align="center" style="display: flex; gap: 10px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelecodedev&layout=compact&theme=radical&hide_border=true" width=55%>
+  <img src="https://github-profile-trophy.vercel.app/?username=lelecodedev&theme=radical&no-frame=true&column=3&row=2" width="50%" alt="@Leandro's trophy stats"/>
+</p>
 
 ## 📚 Currently Learning
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+<p align="left"> <a href="https://openjdk.java.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="50" height="50"/> </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> </a> </p>
 
 ## 🔗 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandronathanael_08/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lelecodedev)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/leandronathanael08)
+<p style="display: flex; gap: 20px;">
+  <a href="https://www.instagram.com/leandronathanael_08" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://github.com/lelecodedev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
+  </a>
+  <a href="https://gitlab.com/leandronathanael08" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" height="40" width="40" />
+  </a>
+</p>
+
 ---
 
-*Let's build something amazing together! 🚀*
+_Let's build something amazing together! 🚀_
