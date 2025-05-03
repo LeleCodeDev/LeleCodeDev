@@ -13,11 +13,11 @@ I'm a passionate developer focusing on **Express.js**, **Vue.js**, **Laravel**, 
 
 ### 🌐 Frontend
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="45" height="45"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="45" height="45"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="45" height="45"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="45" height="45"/> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Next.js" width="48" height="48"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="48" height="48"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="48" height="48"/> </a> </p>
 
 ### 🧠 Backend
 
-<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" width="45" height="45"/> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="45" height="45"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/> </a> </p>
+<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" width="48" height="48"/> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"/> </a> </p>
 
 ### ⚙️ Technologies I Have used
 
@@ -125,7 +125,10 @@ I'm a passionate developer focusing on **Express.js**, **Vue.js**, **Laravel**, 
 <p align="center">
 
 <a href="https://github.com/LeleCodeDev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=lelecodedev&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Leandro's github-readme-stats"/></a>
-<a href="https://github.com/LeleCodeDev?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=lelecodedev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Leandro's github-readme-streak-stats"/></a>
+<a href="https://github.com/LeleCodeDev?tab=stars">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=lelecodedev&theme=radical&hide_border=true" width="48%"/>
+</a>
+
 
 </p>
 
@@ -134,8 +137,8 @@ I'm a passionate developer focusing on **Express.js**, **Vue.js**, **Laravel**, 
 </p>
 
 <p align="center" style="display: flex; gap: 10px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelecodedev&layout=compact&theme=radical&hide_border=true" width=55%>
-  <img src="https://github-profile-trophy.vercel.app/?username=lelecodedev&theme=radical&no-frame=true&column=3&row=2" width="50%" alt="@Leandro's trophy stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelecodedev&layout=compact&theme=radical&hide_border=true" width=40%>
+  <img src="https://github-profile-trophy.vercel.app/?username=lelecodedev&theme=radical&no-frame=true&column=3&row=2" width="40%" alt="@Leandro's trophy stats"/>
 </p>
 
 ## 📚 Currently Learning
@@ -144,15 +147,15 @@ I'm a passionate developer focusing on **Express.js**, **Vue.js**, **Laravel**, 
 
 ## 🔗 Connect with Me
 
-<p style="display: flex; gap: 20px;">
+<p style="display: flex; gap: 20px;"> 
   <a href="https://www.instagram.com/leandronathanael_08" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="48" width="48" />
   </a>
   <a href="https://github.com/lelecodedev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="48" width="48" />
   </a>
   <a href="https://gitlab.com/leandronathanael08" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" height="48" width="48" />
   </a>
 </p>
 
