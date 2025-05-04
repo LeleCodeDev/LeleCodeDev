@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Leandro Nathanael
+# Hi there! 👋 I'm Leandro Nathanael Hermawan
 
 ## 🚀 About Me
 
-I'm a passionate developer focusing on **Express.js**, **Vue.js**, **Laravel**, and full-stack development.
+I'm a vocational school student and a passionate developer focusing on **Express.js**, **Vue.js**, **Laravel**, and full-stack development.
 
 - 🔭 Currently working on web-based apps using **Vue**, **Laravel**, and **REST APIs**
 - 🌱 Learning **Laravel**, **Next.js**, **React**, **Spring Boot**
@@ -19,7 +19,7 @@ I'm a passionate developer focusing on **Express.js**, **Vue.js**, **Laravel**, 
 
 <p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" width="48" height="48"/> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"/> </a> </p>
 
-### ⚙️ Technologies I Have used
+### ⚙️ Technologies I Have Used
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
