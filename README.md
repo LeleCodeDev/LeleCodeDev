@@ -1,7 +1,7 @@
 # <div align="center">Leandro Nathanael Hermawan</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=500&color=5D0EF7&width=435&lines=Full-Stack+Developer;Linux+Enthusiast;Coffee+Addict;Sleep+Deprived" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5D0EF7&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Linux+Enthusiast;Coffee+Addict;Sleep+Deprived" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
