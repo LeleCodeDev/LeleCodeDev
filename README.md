@@ -1,7 +1,7 @@
 # <div align="center">Leandro Nathanael Hermawan</div>
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgxNjk0MjEsIm5iZiI6MTc1ODE2OTEyMSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTE4VDA0MTg0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5YjNiYjg1ZDViZDA2ZjdlNWMwZmY4NDg3OThjMjAzMmQ2MWY4MjEwMWYzYzJlOGE2N2U3ODg0MTI1Y2MzNDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZogToLVYJ3TzkT7fkn3jk7TMDNk4fqbB7Yt01VSI4_A" alt="Hello" width="300" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=4000&pause=500&color=5D0EF7&width=435&lines=Full-Stack+Developer;Linux+Enthusiast;Coffee+Addict;Sleep+Deprived" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
