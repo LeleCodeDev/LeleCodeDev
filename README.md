@@ -1,126 +1,71 @@
-# Hi there! 👋 I'm Leandro Nathanael Hermawan
+# <div align="center">Leandro Nathanael Hermawan</div>
+
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgxNjk0MjEsIm5iZiI6MTc1ODE2OTEyMSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTE4VDA0MTg0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5YjNiYjg1ZDViZDA2ZjdlNWMwZmY4NDg3OThjMjAzMmQ2MWY4MjEwMWYzYzJlOGE2N2U3ODg0MTI1Y2MzNDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZogToLVYJ3TzkT7fkn3jk7TMDNk4fqbB7Yt01VSI4_A" alt="Hello" width="300" />
+</div>
 
 ## 🚀 About Me
 
-I'm a vocational school student and a passionate developer focusing on **Express.js**, **Vue.js**, **Laravel**, and full-stack development.
-
-- 🔭 Currently working on web-based apps using **Vue**, **Laravel**, and **REST APIs**
-- 🌱 Learning **Laravel**, **Next.js**, **React**, **Spring Boot**
-
-- 📫 Reach me at [leandronathanael08@gmail.com](mailto:leandronathanael08@gmail.com)
+I'm a vocational school student and a passionate developer
+```java
+class AboutMe {
+    String name = "Leandro Nathanael Hermawan";
+    String location = "Tangerang, Indonesia";
+    String role = "Junior Web Developer Student";
+    String currentFocus = "Web Development";
+    string funFact = "I love linux ricing and coffee ☕";
+    String[] interests = {
+        "Web Development", 
+        "Mobile Development", 
+        "Embeded System"
+    };
+}
+```
 
 ## 🛠️ My Tech Stack
+```javascript
+const techStack = {
+    operating_systems: [
+        "Windows 11", 
+        "Fedora 42 Hyprland"
+    ],
 
-### 🌐 Frontend
+    programming_languages: [
+        "PHP",
+        "Java",
+        "Go",
+        "TypeScript",
+        "JavaScript"
+    ],
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48"/>   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" width="48" height="48"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="48" height="48"/> </a> </p>
+    frameworks: [
+        "React",
+        "Vue",
+        "Next.js",
+        "Laravel",
+        "Springboot",
+        "Gin",
+        "Tailwind CSS"
+    ],
 
-### 🧠 Backend
-
-<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel" width="48" height="48"/> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/> </a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48"/> </a> </p>
-
-### ⚙️ Technologies I Have Used
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" />
-      <br>Pyhon
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" />
-      <br>MySQL
-    </td>
-    
-    
-  </tr>
-  <tr>
-  <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" />
-      <br>Vue
-    </td>
-    <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="48" height="48" />
-      <br>Next
-    </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-        <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="48" height="48" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="48" height="48" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" />
-      <br>PHP
-    </td>
-
-  </tr>
-  <tr>
-  <td align="center" width="96">
-        <img src="https://www.svgrepo.com/show/353985/laravel.svg" width="48" height="48" />
-      <br>Laravel
-    </td>
-  <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
-      <br>GitHub
-    </td>
-    
-  </tr>
-</table>
-</div>
+    tools: [
+        "Git",
+        "Docker",
+        "Postman",
+        "Nvim"
+    ]
+}
+```
 
 ## 📊 GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeleCodeDev/LeleCodeDev/output/dist/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeleCodeDev/LeleCodeDev/output/dist/pacman-contribution-graph.svg">
+    <img alt="GitHub Contribution Pacman Animation" src="https://raw.githubusercontent.com/LeleCodeDev/LeleCodeDev/output/dist/pacman-contribution-graph-dark.svg">
+  </picture>
+</div>
 
 <p align="center">
   <a href="https://github.com/LeleCodeDev?tab=repositories">
@@ -137,26 +82,16 @@ I'm a vocational school student and a passionate developer focusing on **Express
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lelecodedev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
-## 📚 Currently Learning
-
-<p align="left"> <a href="https://openjdk.java.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="50" height="50"/> </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> </a> </p>
-
 ## 🔗 Connect with Me
 
-<p style="display: flex; gap: 20px;"> 
-  <a href="https://www.instagram.com/leandronathanael_08" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="48" width="48" />
+<div align="center">
+  <a href="https://www.instagram.com/leandronathanael_08" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://github.com/lelecodedev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="48" width="48" />
+  <a href="mailto:leandronathanael08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://gitlab.com/leandronathanael08" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" height="48" width="48" />
-  </a>
-</p>
-
+</div>
 ---
 
 _Let's build something amazing together! 🚀_
