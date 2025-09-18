@@ -61,9 +61,8 @@ const techStack = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeleCodeDev/LeleCodeDev/output/dist/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeleCodeDev/LeleCodeDev/output/dist/pacman-contribution-graph.svg">
-    <img alt="GitHub Contribution Pacman Animation" src="https://raw.githubusercontent.com/LeleCodeDev/LeleCodeDev/output/dist/pacman-contribution-graph-dark.svg">
+    <source srcset="pacman-contribution-graph-dark.svg">
+    <img alt="GitHub Contribution Pacman Animation" src="pacman-contribution-graph-dark.svg">
   </picture>
 </div>
 
