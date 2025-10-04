@@ -7,9 +7,20 @@
 ## 🚀 About Me
 
 I'm a vocational school student and a passionate developer
-<div align="center">
-  <img src="https://carbon.now.sh/api/?code=class%20AboutMe%20%7B%0A%20%20String%20name%20%3D%20%22Leandro%20Nathanael%20Hermawan%22%3B%0A%20%20String%20location%20%3D%20%22Tangerang%2C%20Indonesia%22%3B%0A%20%20String%20role%20%3D%20%22Junior%20Web%20Developer%20Student%22%3B%0A%20%20String%20currentFocus%20%3D%20%22Web%20Development%22%3B%0A%20%20String%20funFact%20%3D%20%22I%20use%20Fedora%20btw%22%3B%0A%20%20String%5B%5D%20interests%20%3D%20%7B%0A%20%20%20%20%22Web%20Development%22%2C%0A%20%20%20%20%22Mobile%20Development%22%2C%0A%20%20%20%20%22Embedded%20System%22%0A%20%20%7D%3B%0A%7D&theme=tokyo-night" alt="AboutMe Java Code in Tokyo Night Theme" />
-</div>
+```java
+class AboutMe {
+    String name = "Leandro Nathanael Hermawan";
+    String location = "Tangerang, Indonesia";
+    String role = "Junior Web Developer Student";
+    String currentFocus = "Web Development";
+    string funFact = "I use Fedora btw";
+    String[] interests = {
+        "Web Development", 
+        "Mobile Development", 
+        "Embeded System"
+    };
+}
+```
 
 
 ## 🛠️ My Tech Stack
