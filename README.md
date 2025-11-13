@@ -28,7 +28,7 @@ class AboutMe {
 const techStack = {
     operating_systems: [
         "Windows 11", 
-        "Fedora 42 Hyprland"
+        "Arch + Hyprland"
     ],
 
     programming_languages: [
