@@ -13,11 +13,12 @@ class AboutMe {
     String location = "Tangerang, Indonesia";
     String role = "Junior Web Developer Student";
     String currentFocus = "Web Development";
-    string funFact = "I use Fedora btw";
+    string funFact = "I use Arch btw";
     String[] interests = {
         "Web Development", 
         "Mobile Development", 
-        "Embeded System"
+        "Embeded System",
+        "Home Lab Server"
     };
 }
 ```
