@@ -29,7 +29,7 @@ class AboutMe {
 const techStack = {
     operating_systems: [
         "Windows 11", 
-        "Arch + Hyprland"
+        "Arch + Niri"
     ],
 
     programming_languages: [
