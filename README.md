@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a vocational school student and a passionate developer
+I'm a passionate developer
 ```java
 class AboutMe {
     String name = "Leandro Nathanael Hermawan";
