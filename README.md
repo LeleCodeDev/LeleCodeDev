@@ -76,11 +76,11 @@ const techStack = {
 </p>
 
  <p align="center">
-  <img src="https://ghstats.dev/api/langs?username=lelecodedev&theme=radical">
+  <img src="https://ghstats.dev/api/langs?username=lelecodedev&theme=radical&hide_border=true">
   </p>
 
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lelecodedev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
+  <img src="https://ghstats.dev/api/sparkline?username=lelecodedev&theme=radical&days=30&width=320&height=80&hide_border=true" width="100%" alt="activity graph">
 </p>
 
 ## 🔗 Connect with Me
