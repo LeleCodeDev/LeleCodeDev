@@ -76,7 +76,7 @@ const techStack = {
 </p>
 
  <p align="center">
-  <img src="https://ghstats.dev/api/langs?username=lelecodedev&theme=radical&hide_border=true">
+  <img src="https://ghstats.dev/api/langs?username=lelecodedev&theme=radical&hide_border=true&layout=horizontal_list">
   </p>
 
 <!-- <p align="center"> 
