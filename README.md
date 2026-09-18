@@ -76,7 +76,7 @@ const techStack = {
 </p>
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelecodedev&layout=compact&theme=radical&hide_border=true">
+  <img src="https://ghstats.dev/api/langs?username=lelecodedev&theme=radical">
   </p>
 
 <p align="center"> 
