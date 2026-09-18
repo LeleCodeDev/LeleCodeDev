@@ -79,9 +79,9 @@ const techStack = {
   <img src="https://ghstats.dev/api/langs?username=lelecodedev&theme=radical&hide_border=true">
   </p>
 
-<p align="center"> 
-  <img src="https://ghstats.dev/api/sparkline?username=lelecodedev&theme=radical&days=30&width=320&height=80&hide_border=true" width="100%" alt="activity graph">
-</p>
+<!-- <p align="center"> 
+  <img src="https://ghstats.dev/api/sparkline?username=lelecodedev&theme=radical&days=30&width=200&height=80&hide_border=true" width="100%" alt="activity graph">
+</p> -->
 
 ## 🔗 Connect with Me
 
